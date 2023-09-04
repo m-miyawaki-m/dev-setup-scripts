@@ -1,0 +1,2 @@
+#scriptsを実行して出力されるログファイルを無視
+/scripts/logs/
